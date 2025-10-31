@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Nathan Otieno
 
 💻 **Computer Science Student** | 🔐 Cybersecurity Enthusiast  | Front-End Dev
-Building cool things one bug at a time
 
 ---
 
@@ -18,7 +17,7 @@ Building cool things one bug at a time
 ---
 
 ### 📫 Connect with me
-[LinkedIn](#) | [Portfolio](#)
+[LinkedIn](#) | 
 
 
 
