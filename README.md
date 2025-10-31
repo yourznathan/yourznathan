@@ -10,14 +10,8 @@
 
 ---
 
-### 📊 GitHub Stats
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
-
----
-
 ### 📫 Connect with me
-[LinkedIn] - www.linkedin.com/in/nathan-otieno-2221a9327 (#) 
+[LinkedIn] - www.linkedin.com/in/nathan-otieno-2221a9327
 
 
 
