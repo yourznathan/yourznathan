@@ -17,7 +17,7 @@
 ---
 
 ### 📫 Connect with me
-[LinkedIn](#) | 
+[LinkedIn] - www.linkedin.com/in/nathan-otieno-2221a9327 (#) 
 
 
 
