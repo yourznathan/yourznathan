@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Nathan Otieno
 
-💻 **Computer Science Student** | 🔐 Cybersecurity Enthusiast  | Front-End Dev
+💻 **Computer Science Student** | 🔐 Cybersecurity Enthusiast 
 
 ---
 
 ### 🚀 Tech Stack
-- **Languages:** Java, Python, JavaScript, HTML
-- **Tools:** Git, Linux, MySQLWorkbench, Fortinet stuff 
+- **Languages:** Java, Python, JavaScript, HTML, Kotlin
+- **Tools:** Git, Linux, MySQLWorkbench
 
 ---
 
