@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Nathan Otieno<br><br>💻 **Computer Science Student** | 🔐 Cybersecurity Enthusiast <br><br>---<br><br> 🚀 Tech Stack<br>- **Languages:** Java, JavaScript/TypeScript, HTML/CSS<br>- **Tools:** Git, VSCode, Figma<br><br>---<br> ⚡Frontend<br>Next.js, React, Vue, JavaScript/TypeScript, TailwindCSS<br><br> 🛠️ Backend<br>PostgreSQL, MySQL, Node.js<br><br>---<br><br>### 📫 Connect with me<br>[LinkedIn] - www.linkedin.com/in/nathan-otieno-2221a9327<br>
 
 
