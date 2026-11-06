@@ -11,8 +11,10 @@
 ![](https://streak-stats.demolab.com/?user=yourznathan&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yourznathan&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+<img src="koi/koi.gif" width="256" alt="My koi">
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 <!--
 **yourznathan/yourznathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
