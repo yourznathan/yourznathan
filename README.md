@@ -1,72 +1,44 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Nathan Otieno — computer science student, cybersecurity enthusiast. Nairobi, Kenya.">
+  <img src="assets/header.svg" width="100%" alt="Nathan Otieno">
 </p>
 
+<h2 align="center">hi, i'm nathan</h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/nathan-otieno/"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="mailto:nathanochieng450@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Email"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tagline-dark.svg">
+    <img src="assets/tagline-light.svg" width="440" alt="computer science student · cybersecurity enthusiast · nairobi, kenya">
+  </picture>
+</p>
+
+<br>
+
+<h3 align="center">connect</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nathan-otieno/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:nathanochieng450@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge" alt="Email"></a>
+</p>
+
+<br>
+
+<h3 align="center">stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,html,css,nodejs,java,postgres,mysql,supabase,firebase,flutter,dart,kotlin,git,github,vscode,figma,vercel&theme=dark&perline=11" width="440" alt="TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS, HTML, CSS, Node.js, Java, PostgreSQL, MySQL, Supabase, Firebase, Flutter, Dart, Kotlin, Git, GitHub, VS Code, Figma, Vercel">
+</p>
+
+<br>
+
+<h3 align="center">activity</h3>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.shion.dev/api?username=yourznathan&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&border_color=30363d&ring_color=e6edf3" alt="GitHub stats">
+  <img height="150" src="https://streak-stats.demolab.com/?user=yourznathan&border_radius=10&background=0D1117&border=30363D&stroke=30363D&ring=E6EDF3&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=6E7681" alt="Contribution streak">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="assets/koifetch.svg" width="100%" alt="koifetch — role: computer science student · focus: web development and cybersecurity · stack: TypeScript, Next.js, Node, Postgres · editor: VS Code · design: Figma · based in Nairobi, Kenya">
+  <img src="koi/koi.gif" width="120" alt="Today's koi">
 </p>
-
-<br>
-
-<img src="assets/title-stack.svg" width="100%" alt="01 / the stack">
-
-<p align="center">
-  <sub><b>THE SURFACE</b>&nbsp; · &nbsp;what you see</sub>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS, HTML, CSS">
-</p>
-
-<p align="center">
-  <sub><b>THE SHALLOWS</b>&nbsp; · &nbsp;what fits in your pocket</sub>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=dark" alt="Flutter, Dart, Kotlin">
-</p>
-
-<p align="center">
-  <sub><b>THE DEPTHS</b>&nbsp; · &nbsp;what keeps it afloat</sub>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,postgres,mysql,supabase,firebase&theme=dark" alt="Node.js, Java, PostgreSQL, MySQL, Supabase, Firebase">
-</p>
-
-<p align="center">
-  <sub><b>THE TACKLE BOX</b>&nbsp; · &nbsp;what I reach for</sub>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" alt="Git, GitHub, VS Code, Figma, Vercel">
-</p>
-
-<br>
-
-<img src="assets/title-log.svg" width="100%" alt="02 / the pond log">
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=yourznathan&show_icons=true&include_all_commits=true&count_private=true&custom_title=Pond%20Stats&border_radius=14&bg_color=0b1628&title_color=ff9a3c&text_color=c9d6e8&icon_color=3d8bff&border_color=1c3556&ring_color=ff9a3c" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yourznathan&layout=compact&langs_count=8&custom_title=In%20The%20Water&border_radius=14&bg_color=0b1628&title_color=ff9a3c&text_color=c9d6e8&border_color=1c3556" alt="Most used languages">
-  <br>
-  <img height="170" src="https://streak-stats.demolab.com/?user=yourznathan&border_radius=14&background=0B1628&border=1C3556&stroke=1C3556&ring=FF9A3C&fire=FF5E5B&currStreakNum=F6EFE4&sideNums=F6EFE4&currStreakLabel=FF9A3C&sideLabels=9DB8DB&dates=5F7A9C" alt="Contribution streak">
-</p>
-
-<br>
-
-<img src="assets/title-koi.svg" width="100%" alt="03 / today's koi">
-
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="Today's koi: a pixel-art koi, redrawn every night">
-  <br>
-  <sub>a new koi is drawn into this pond every night at 03:20 nairobi time by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Thanks for swimming by.">
-</p>
-
-<!-- artwork in /assets is generated by assets/build.mjs — edit it there and run: node assets/build.mjs -->
