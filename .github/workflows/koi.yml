@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v7
       - uses: yalongwastaken/git-koi@7305e9b1fadee6f43d3b4fa543a25d4cde79856e #v1.0.2
         with:
-          body: white
+          body: black
           output-dir: koi
       - name: Commit the koi if it changed
         shell: bash
