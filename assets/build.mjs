@@ -186,15 +186,17 @@ function header() {
 </g>`, style);
 }
 
-// ── tagline: three quiet lines that fade into one another ──────────────────
+// ── tagline: quiet lines that fade into one another ────────────────────────
 function tagline(fill) {
   const W = 640, H = 40;
-  const lines = ["computer science student", "cybersecurity enthusiast", "nairobi, kenya · utc+3"];
+  const lines = ["Software Engineer", "Computer Science Student", "Cybersecurity Enthusiast", "Nairobi, Kenya"];
   const T = lines.length * 3.5;
+  const slot = 100 / lines.length; // each line owns an equal share of the loop
+  const pct = (v) => `${v.toFixed(1)}%`;
   const style = `
 .l { opacity: 0; animation: l ${T}s ease-in-out infinite both; }
 .l:first-of-type { opacity: 1; }
-@keyframes l { 0% { opacity: 0 } 4%, 29% { opacity: 1 } 33%, 100% { opacity: 0 } }
+@keyframes l { 0% { opacity: 0 } ${pct(slot * 0.12)}, ${pct(slot * 0.88)} { opacity: 1 } ${pct(slot)}, 100% { opacity: 0 } }
 .cur { animation: cur 1.1s steps(1) infinite; } @keyframes cur { 50% { fill: transparent } }`;
   return svg(W, H, lines.join(" · "),
     lines.map((t, i) =>
