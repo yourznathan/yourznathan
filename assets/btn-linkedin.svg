@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="56" viewBox="0 0 230 56" role="img" aria-label="linkedin">
+<title>linkedin</title>
+<style>
+
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; } }
+</style>
+<rect x="1" y="1" width="228" height="54" rx="12" fill="#091a30" stroke="#1c3556" stroke-width="2"/>
+<rect x="1" y="49" width="228" height="6" rx="3" fill="#3d8bff" opacity=".9"/>
+<path  fill="#2f7fd8" d="M23 8h30v3h-30zM20 11h36v3h-36zM20 14h3v3h-3zM29 14h27v3h-27zM20 17h3v3h-3zM29 17h27v3h-27zM20 20h36v3h-36zM20 23h3v3h-3zM29 23h3v3h-3zM47 23h9v3h-9zM20 26h3v3h-3zM29 26h3v3h-3zM50 26h6v3h-6zM20 29h3v3h-3zM29 29h3v3h-3zM38 29h6v3h-6zM50 29h6v3h-6zM20 32h3v3h-3zM29 32h3v3h-3zM38 32h6v3h-6zM50 32h6v3h-6zM20 35h3v3h-3zM29 35h3v3h-3zM38 35h6v3h-6zM50 35h6v3h-6zM20 38h36v3h-36zM23 41h30v3h-30z"/><path  fill="#f6efe4" d="M23 14h6v3h-6zM23 17h6v3h-6zM23 23h6v3h-6zM32 23h15v3h-15zM23 26h6v3h-6zM32 26h18v3h-18zM23 29h6v3h-6zM32 29h6v3h-6zM44 29h6v3h-6zM23 32h6v3h-6zM32 32h6v3h-6zM44 32h6v3h-6zM23 35h6v3h-6zM32 35h6v3h-6zM44 35h6v3h-6z"/>
+<text x="72" y="32" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="18" font-weight="700" fill="#f6efe4">linkedin</text>
+<path  fill="#3d8bff" d="M198 17h12v3h-12zM204 20h6v3h-6zM201 23h3v3h-3zM207 23h3v3h-3zM198 26h3v3h-3zM207 26h3v3h-3zM195 29h3v3h-3zM192 32h3v3h-3z"/>
+</svg>

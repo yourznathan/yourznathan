@@ -1,32 +1,72 @@
-# 👋 Hi, I'm Nathan Otieno<br><br>💻 **Computer Science Student** | 🔐 Cybersecurity Enthusiast <br><br>---<br><br> 🚀 Tech Stack<br>- **Languages:** Java, JavaScript/TypeScript, HTML/CSS<br>- **Tools:** Git, VSCode, Figma<br><br>---<br> ⚡Frontend<br>Next.js, React, Vue, JavaScript/TypeScript, TailwindCSS<br><br> 🛠️ Backend<br>PostgreSQL, MySQL, Node.js<br><br>---<br><br>### 📫 Connect with me<br>[LinkedIn] - www.linkedin.com/in/nathan-otieno-2221a9327<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-otieno/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathanochieng450@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yourznathan&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=yourznathan&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yourznathan&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Nathan Otieno — computer science student, cybersecurity enthusiast. Nairobi, Kenya.">
+</p>
 
 <p align="center">
-<img src="koi/koi.gif" width="256" alt="My koi">
+  <a href="https://www.linkedin.com/in/nathan-otieno/"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:nathanochieng450@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Email"></a>
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
-**yourznathan/yourznathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="assets/koifetch.svg" width="100%" alt="koifetch — role: computer science student · focus: web development and cybersecurity · stack: TypeScript, Next.js, Node, Postgres · editor: VS Code · design: Figma · based in Nairobi, Kenya">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="assets/title-stack.svg" width="100%" alt="01 / the stack">
+
+<p align="center">
+  <sub><b>THE SURFACE</b>&nbsp; · &nbsp;what you see</sub>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS, HTML, CSS">
+</p>
+
+<p align="center">
+  <sub><b>THE SHALLOWS</b>&nbsp; · &nbsp;what fits in your pocket</sub>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=dark" alt="Flutter, Dart, Kotlin">
+</p>
+
+<p align="center">
+  <sub><b>THE DEPTHS</b>&nbsp; · &nbsp;what keeps it afloat</sub>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,postgres,mysql,supabase,firebase&theme=dark" alt="Node.js, Java, PostgreSQL, MySQL, Supabase, Firebase">
+</p>
+
+<p align="center">
+  <sub><b>THE TACKLE BOX</b>&nbsp; · &nbsp;what I reach for</sub>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" alt="Git, GitHub, VS Code, Figma, Vercel">
+</p>
+
+<br>
+
+<img src="assets/title-log.svg" width="100%" alt="02 / the pond log">
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=yourznathan&show_icons=true&include_all_commits=true&count_private=true&custom_title=Pond%20Stats&border_radius=14&bg_color=0b1628&title_color=ff9a3c&text_color=c9d6e8&icon_color=3d8bff&border_color=1c3556&ring_color=ff9a3c" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yourznathan&layout=compact&langs_count=8&custom_title=In%20The%20Water&border_radius=14&bg_color=0b1628&title_color=ff9a3c&text_color=c9d6e8&border_color=1c3556" alt="Most used languages">
+  <br>
+  <img height="170" src="https://streak-stats.demolab.com/?user=yourznathan&border_radius=14&background=0B1628&border=1C3556&stroke=1C3556&ring=FF9A3C&fire=FF5E5B&currStreakNum=F6EFE4&sideNums=F6EFE4&currStreakLabel=FF9A3C&sideLabels=9DB8DB&dates=5F7A9C" alt="Contribution streak">
+</p>
+
+<br>
+
+<img src="assets/title-koi.svg" width="100%" alt="03 / today's koi">
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="Today's koi: a pixel-art koi, redrawn every night">
+  <br>
+  <sub>a new koi is drawn into this pond every night at 03:20 nairobi time by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Thanks for swimming by.">
+</p>
+
+<!-- artwork in /assets is generated by assets/build.mjs — edit it there and run: node assets/build.mjs -->
