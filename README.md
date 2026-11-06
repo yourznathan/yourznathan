@@ -2,12 +2,12 @@
   <img src="assets/header.svg" width="100%" alt="Nathan Otieno">
 </p>
 
-<h2 align="center">hi, i'm nathan</h2>
+<h2 align="center">Hi, I'm Nathan</h2>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/tagline-dark.svg">
-    <img src="assets/tagline-light.svg" width="440" alt="computer science student · cybersecurity enthusiast · nairobi, kenya">
+    <img src="assets/tagline-light.svg" width="440" alt="Computer Science Student · Cybersecurity Enthusiast · Nairobi, Kenya">
   </picture>
 </p>
 
